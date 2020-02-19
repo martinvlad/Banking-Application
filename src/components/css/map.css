@@ -1,0 +1,62 @@
+.ba {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.b--black-20 {
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.db {
+  display: block;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.input-reset {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.input-reset::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+.lh-copy {
+  line-height: 1.5;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.black-80 {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.black-60 {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.pa2 {
+  padding: 0.5rem;
+}
+
+.pa4 {
+  padding: 2rem;
+}
+
+.mb2 {
+  margin-bottom: 0.5rem;
+}
+
+.f6 {
+  font-size: 0.875rem;
+}
+
+.measure-narrow {
+  max-width: 20em;
+}
